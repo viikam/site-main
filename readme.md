@@ -24,5 +24,4 @@ structuration du projet <img width="1920" height="1080" alt="r115" src="https://
 
 ce cite est aussi hébérgé sur mon serveur personnel : [sae.xunil.app](https://sae.xunil.app)
 
-
 bonne visite !
